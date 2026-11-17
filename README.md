@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-someone asked me what's the plan.  i told them lets keep this show going on and just maybe we'll be surprised where we land.
+four score and probably scones and some more, someone asked me what's exactly the plan.  
+
+  i told them lets keep this show going on and just _maybe_ we'll be surprised where we land.
 <!--
 **cyberrenzo/cyberrenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
